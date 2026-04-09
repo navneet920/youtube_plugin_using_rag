@@ -1,0 +1,41 @@
+youtube-transcript-api
+
+# Core
+python-dotenv
+pydantic
+
+# RAG / LLM
+langchain
+langchain-community
+langchain-core
+langchain_huggingface
+
+
+# Embeddings
+sentence-transformers
+
+# Vector DB
+faiss-cpu
+chromadb
+
+# LLM Models
+transformers
+accelerate
+torch
+
+# API (if using FastAPI)
+fastapi
+uvicorn
+
+# Data processing
+numpy
+pandas
+
+# Utilities
+tqdm
+
+# Testing
+pytest
+
+
+
